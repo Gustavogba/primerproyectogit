@@ -8,7 +8,6 @@ namespace GIT
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("a darle con todo");
-            
             Console.WriteLine("hola mike de una papu");
         }
     }
