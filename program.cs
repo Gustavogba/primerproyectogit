@@ -7,7 +7,7 @@ namespace GIT
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("hola mike");
+            Console.WriteLine("hola mike de una papu");
         }
     }
 }
