@@ -1,0 +1,15 @@
+/Users/gustavobautista/Desktop/GIT/bin/Debug/net5.0/GIT.deps.json
+/Users/gustavobautista/Desktop/GIT/bin/Debug/net5.0/GIT.runtimeconfig.json
+/Users/gustavobautista/Desktop/GIT/bin/Debug/net5.0/GIT.runtimeconfig.dev.json
+/Users/gustavobautista/Desktop/GIT/bin/Debug/net5.0/GIT.dll
+/Users/gustavobautista/Desktop/GIT/bin/Debug/net5.0/ref/GIT.dll
+/Users/gustavobautista/Desktop/GIT/bin/Debug/net5.0/GIT.pdb
+/Users/gustavobautista/Desktop/GIT/obj/Debug/net5.0/GIT.csproj.AssemblyReference.cache
+/Users/gustavobautista/Desktop/GIT/obj/Debug/net5.0/GIT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gustavobautista/Desktop/GIT/obj/Debug/net5.0/GIT.AssemblyInfoInputs.cache
+/Users/gustavobautista/Desktop/GIT/obj/Debug/net5.0/GIT.AssemblyInfo.cs
+/Users/gustavobautista/Desktop/GIT/obj/Debug/net5.0/GIT.csproj.CoreCompileInputs.cache
+/Users/gustavobautista/Desktop/GIT/obj/Debug/net5.0/GIT.dll
+/Users/gustavobautista/Desktop/GIT/obj/Debug/net5.0/ref/GIT.dll
+/Users/gustavobautista/Desktop/GIT/obj/Debug/net5.0/GIT.pdb
+/Users/gustavobautista/Desktop/GIT/obj/Debug/net5.0/GIT.genruntimeconfig.cache
